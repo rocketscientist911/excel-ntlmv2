@@ -1,4 +1,4 @@
-# excel-ntlmv2 ~ Ismail kaleem twitter@metaploitZ
+# excel-ntlmv2 ~ twitter: @metaploitZ
 
 The bug has been tested on Windows7 / 8 and 10
 
@@ -16,4 +16,5 @@ The exploit will create a file called crap.xlsx. Send this file to victim.
 
 If you want to bypass firewall then you can setup haproxy and bind tcp 443 to 445 behind HAPROXY to successfuly exploit networks behind a firewall.
 
-
+Ismail Kaleem - Maldives <3
+ismail@maldives.com
