@@ -1,4 +1,4 @@
-# excel-ntlmv2 ~ twitter: @metaploitZ
+# Excel-ntlmv2 ~ twitter: @metaploitZ
 
 The bug has been tested on Windows7 / 8 and 10
 
