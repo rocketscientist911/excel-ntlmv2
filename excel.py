@@ -3,7 +3,7 @@ print("-----================================================----")
 print("Excel2013/16/19 - Win7/8/10 NTLMv2 hash dump. Author:Ismael")
 print("-----================================================-----")
 
-lhost = raw_input("Enter your Responder IP:  ")
+lhost = input("Enter your Responder IP:  ")
 
 
 import xlsxwriter
