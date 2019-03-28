@@ -20,4 +20,7 @@ If you want to bypass firewall then you can setup haproxy and bind tcp 443 to 44
 Ismail Kaleem - Maldives <3
 www.evolution-sec.com
 
+Core Team Researcher
+www.vulnerability-lab.com
+
 
