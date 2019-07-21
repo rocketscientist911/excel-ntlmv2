@@ -18,9 +18,3 @@ The exploit will create a file called crap.xlsx. Send this file to victim.
 If you want to bypass firewall then you can setup haproxy and bind tcp 443 to 445 behind HAPROXY to successfuly exploit networks behind a firewall.
 
 Ismail Kaleem - Maldives <3
-www.evolution-sec.com
-
-Core Team Researcher
-www.vulnerability-lab.com
-
-
